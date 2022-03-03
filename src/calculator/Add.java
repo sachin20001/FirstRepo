@@ -4,7 +4,8 @@ public class Add {
 	
 	public static void add(int a,int b)
 	{
-		System.out.println(a+b);
+		
+		System.out.println("ans is "+a+b);
 	}
 
 
